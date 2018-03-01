@@ -4,8 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-<img align="left" src="/assets/prof_pic.jpg" hspace="20" width="200" height="250">
+<img align="left" src="/assets/prof_pic.jpg" hspace="20" width="20" height="25">
 TEXT ABOUT ME
+
 ---
 
 ## Education
