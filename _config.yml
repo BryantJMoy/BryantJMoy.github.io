@@ -22,11 +22,6 @@ linkedin_username: bryantjmoy
 #youtube_username: jekyll
 #googleplus_username: +jekyll
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/bryantjmoy"
-
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
