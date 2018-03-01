@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Teaching
-permalink: 
+permalink: /teaching/
 ---
-/teaching/
+
 * Here is a bulleted teaching point!
 * Here's another! 
