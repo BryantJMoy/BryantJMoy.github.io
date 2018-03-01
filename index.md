@@ -7,7 +7,10 @@ layout: default
 
 Hi! This website is still a work in progress...
 
-TEXT GOES HERE
+I am currently a second-year Ph.D. student in Political Science at Washington University in St. Louis. 
+
+My primary research interest is American Political Behavior and Quantitative Political Methodology. 
+
 
 [comment]: <> (Feel free to read more about me [here](/about/), or have a look at my [research](/research/).)
 
