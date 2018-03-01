@@ -9,13 +9,13 @@ url: "https://bryantjmoy.github.io" # the base hostname & protocol for your site
 
 # social links
 #twitter_username: 
-github-url:  bryantjmoy
+github_username:  bryantjmoy
 #rss: rss
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin: BryantJMoy
+linkedin_username: BryantJMoy
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
