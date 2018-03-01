@@ -9,6 +9,9 @@ Hi
 
 Feel free to read more about me [here](/about/), or have a look at my [research](/research/).
 
-[comment]: <> ( Here's how you link to a [webpage in your site](/teaching/), and
- here's a link to an [external site](https://www.google.com))
+[comment]: <> ( Here's how you link to a [webpage in your site](/teaching/))
+
+[comment]: <> (  here's a link to an [external site](https://www.google.com))
+
+
 
