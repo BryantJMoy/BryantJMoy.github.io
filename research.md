@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
 
 <div><u style="font-size:large;line-height:18px">Academic Publications</u></div>
