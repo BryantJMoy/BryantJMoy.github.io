@@ -30,5 +30,5 @@ My primary research interest is American Political Behavior and quantitative pol
 * American Political Behavior
 * Quantitative Political Science 
 * Causal Inference 
-<\br>
-[comment]<> ( Computational Social Science)
+<br />
+[comment]: <> ( Computational Social Science)
