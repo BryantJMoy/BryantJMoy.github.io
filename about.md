@@ -15,7 +15,6 @@ My primary research interest is American Political Behavior and quantitative pol
 <br />
 <br />
 <br />
----
 
 ## Education
 * ** Washington University in St. Louis,  2016-Present** <br>
