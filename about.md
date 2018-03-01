@@ -5,12 +5,13 @@ permalink: /about/
 ---
 
 <img align="left" src="/assets/prof_pic.jpg" hspace="20" width="160" height="200">
+
 In Progress...E <br />
+
 I am currently a second year Ph.D. student from the Department of Political Science at Washington University in St. Louis.  <br />
 
 My primary research interest is American Political Behavior and quanitiative political methodology.  <br />
-TEXT ABOUT ME <br />
-TEXT ABOUT ME <br />
+
 ---
 
 ## Education
