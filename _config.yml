@@ -3,7 +3,7 @@ title: Bryant J. Moy
 #author:
 email:   BryantJMoy@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a PhD Candidate in the Department of Political Science at Washington University in St. Louis.
+  I'm a PhD Candidate in the Department of Political Science at Washington University in St. Louis. <br />
   I study American Political Behavior and Quantitative Methods. 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://bryantjmoy.github.io" # the base hostname & protocol for your site
