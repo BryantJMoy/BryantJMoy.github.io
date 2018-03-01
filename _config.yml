@@ -1,13 +1,25 @@
 # Site settings
-title: J. Alexander Branham
-email: branham@utexas.edu
+title: Bryant J. Moy
+author: _________________________
+email:   BryantJMoy@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a PhD Candidate in the Department of Government at UT-Austin.
-  I study American politics, public opinion, and methods. 
+  I am a Ph.D. student particularly interested in American Political Behavior and Quantitative Methods.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://jabranham.com" # the base hostname & protocol for your site
-twitter_username: JAlexBranham
-github_username:  jabranham
+url: "https://bryantjmoy.github.io" # the base hostname & protocol for your site
+
+# social links
+#twitter_username: 
+github_username:  bryantjmoy
+#rss: rss
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#linkedin_username: 
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
