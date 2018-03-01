@@ -10,12 +10,12 @@ TEXT ABOUT ME
 ---
 
 ## Education
-* ** Washington University in St. Louis,  2014-Present** <br>
+* ** Washington University in St. Louis,  2016-Present** <br>
   Ph.D. Political Science (in progress) <br>
 
 * ** Arkansas State University DATE** <br>
-  M.A. Political Science <br>
-  B.A. Political Science
+  M.A. Political Science 2016 <br>
+  B.A. Political Science 2014
 
 ---
 
