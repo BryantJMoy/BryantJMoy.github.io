@@ -4,5 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
-* Here is a bulleted teaching point!
-* Here's another! 
+## Instructor, Arkansas State University Spring 2015
+* Introduction to United States Government (POSC 2103)
+
+
+
+
+## Teaching Assistant, Washington University in St. Louis
+* Introduction to American Politics, Fall 2017
+
+
