@@ -9,7 +9,7 @@ TEXT ABOUT ME
 ---
 
 ## Education
-* ** Washington University in St. Louis, Seattle 2014-Present** <br>
+* ** Washington University in St. Louis,  2014-Present** <br>
   Ph.D. Political Science (in progress) <br>
 
 * ** Arkansas State University DATE** <br>
