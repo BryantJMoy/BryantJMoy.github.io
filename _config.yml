@@ -16,7 +16,7 @@ github_username:  bryantjmoy
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: bryantjmoy
+#linkedin_username: bryantjmoy
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
@@ -26,10 +26,7 @@ gems:
   - jekyll-sitemap
 
 # Build settings
-#markdown: kramdown
-#theme: minima
-
-# Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-encoding: utf-8
+theme: minima
+
+
