@@ -5,7 +5,6 @@ layout: default
 # About Me
 <img align="left" src="assets/prof_pic.jpg" hspace="20"  width="200" height="250" >
 
-*Hi! This website is still a work in progress...* <br />
 
 I am currently a second-year Ph.D. student in Political Science at Washington University in St. Louis.  <br />
 
