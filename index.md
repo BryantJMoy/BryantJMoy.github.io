@@ -15,11 +15,13 @@ My primary research interest is American Political Behavior and quantitative pol
 <br />
 <br />
 
+---
+
 ## Education
-* ** Washington University in St. Louis,  2016-Present** <br>
+* **Washington University in St. Louis,  2016-Present** <br>
   Ph.D. Political Science (in progress) <br>
 
-* ** Arkansas State University ** <br>
+* **Arkansas State University** <br>
   M.A. Political Science 2016 <br>
   B.A. Political Science 2014
 
