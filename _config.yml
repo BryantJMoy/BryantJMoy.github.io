@@ -1,6 +1,6 @@
 # Site settings
 title: Bryant J. Moy
-author: ______________
+#author: ______________
 email:   BryantJMoy@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
   I am a PhD student in the Department of Political Science at Washington University in St. Louis. 
@@ -26,5 +26,10 @@ gems:
   - jekyll-sitemap
 
 # Build settings
+#markdown: kramdown
+#theme: minima
+
+# Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
+encoding: utf-8
