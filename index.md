@@ -5,7 +5,7 @@ layout: default
 
 <img align="left" src="assets/prof_pic.jpg" hspace="20"  width="200" height="250" >
 
-Hi! This website is still underdevelopment.
+Hi! This website is still a work in progress...
 
 TEXT GOES HERE
 
