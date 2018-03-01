@@ -7,7 +7,7 @@ layout: default
 
 I am currently a second-year Ph.D. student in Political Science at Washington University in St. Louis.  <br />
 
-My primary research interest is American Political Behavior and quantitative political methodology.  <br />
+My primary research interest is American Political Behavior and Quantitative Political Methodology.  <br />
 
 <br />
 <br />
