@@ -6,7 +6,7 @@ permalink: /about/
 
 <img align="left" src="/assets/prof_pic.jpg" hspace="20" width="160" height="200">
 
-In Progress...E <br />
+In Progress... <br />
 
 I am currently a second year Ph.D. student from the Department of Political Science at Washington University in St. Louis.  <br />
 
