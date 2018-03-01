@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img align="left" src="assets/sprof_pic.jpg" hspace="20">
+<img align="left" src="assets/prof_pic.jpg" hspace="5">
 
 Hi 
 
