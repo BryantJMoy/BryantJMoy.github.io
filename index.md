@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="left" src="assets/prof_pic.jpg" hspace="20"  width="240" height="300" >
+<img align="left" src="assets/prof_pic.jpg" hspace="20"  width="260" height="325" >
 
 I am currently a second-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American political behavior and quantitative political methodology with a focus on causal inference and experiments.  Throughout my career, I intend to explore how individuals make political decisions in the world of misinformation, lack of information, and competing heuristics. <br />
 
