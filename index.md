@@ -4,10 +4,14 @@ layout: default
 
 <img align="left" src="assets/prof_pic.jpg" hspace="20"  width="240" height="300" >
 
+I am currently a second-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American political behavior and quantitative political methodology with a focus on causal inference and experiments.  Throughout my career, I intend to explore how individuals make political decisions in the world of misinformation, lack of information, and competing heuristics. <br />
 
-I am currently a second-year Ph.D. student in Political Science at Washington University in St. Louis.  <br />
+Before enrolling at Washington University in St. Louis, I graduated with a bachelor's and master's degree in Political Science from Arkansas State University. My master's thesis explored the negative relationship between economic freedom and participatory democracy. <br />
 
-My primary research interest is American Political Behavior and Quantitative Political Methodology.  <br />
+
+[comment]: <> (I am currently a second-year Ph.D. student in Political Science at Washington University in St. Louis.)
+
+[comment]: <> (My primary research interest is American Political Behavior and Quantitative Political Methodology.) 
 
 <br />
 <br />
