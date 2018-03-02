@@ -17,10 +17,6 @@ Before enrolling at Washington University in St. Louis, I graduated with a bache
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
