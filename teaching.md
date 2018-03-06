@@ -5,11 +5,11 @@ permalink: /teaching/
 ---
 
 
-## Teaching Assistant, Washington University in St. Louis
+### Teaching Assistant, Washington University in St. Louis
 * Introduction to American Politics, Fall 2017
 
 
-## Instructor, Arkansas State University Spring 2015
+### Instructor, Arkansas State University Spring 2015
 * Introduction to United States Government (POSC 2103)
 
 
