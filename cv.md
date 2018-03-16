@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+order: 1
 ---
 
 <a href="/assets/cv.pdf">Download PDF</a>
