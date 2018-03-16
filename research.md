@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+order: 2
 ---
 ## Forthcoming
 * Miller, David, **Bryant J. Moy**, Andrew Reeves. "U.S. Presidential Campaigns and Their Impact." in *Oxford Bibliographies in Political Science*, S. L. Maisel, Ed., Oxford University Press
