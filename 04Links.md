@@ -10,6 +10,9 @@ These [method guides](http://egap.org/list-methods-guides) are useful when imple
 ### [FiveThirtyEight](http://fivethirtyeight.com)
 FiveThirtyEight is the best for data journalism. 
 
+### [Standard Operating Procedures for Don Green's lab at Columbia](http://alexandercoppock.com/Green-Lab-SOP/Green_Lab_SOP.pdf)
+This is a nice reference guide on conducting experiments. Learn from how Donald Green runs his lab. Version 1.05: June 7, 2016. The living (ever changing) document can be found on Alexander Coppock's [github](https://github.com/acoppock/Green-Lab-SOP) 
+
 ### [The Monkey Cage](https://www.washingtonpost.com/news/monkey-cage/?utm_term=.1b478fbd2731)
 Provides commentary on current events through the lens of political scientists and other social science researchers.
 
