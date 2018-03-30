@@ -18,4 +18,6 @@ Provides commentary on current events through the lens of political scientists a
 
 ### [R for Data Science](http://r4ds.had.co.nz)
 
+### [Text Mining with R](https://www.tidytextmining.com)
+
 
