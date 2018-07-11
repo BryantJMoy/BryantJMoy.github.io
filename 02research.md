@@ -8,7 +8,7 @@ permalink: "/research/"
 
 
 ## Research in Progress
-* Carlson, Caroline L., Jim Gimpel, **Bryant J. Moy**, and Andrew Reeves. "The Urban-Rural Gap in American Political Behavior"
+* Can Social Pressure Induce Governmental Transparency? An Audit Experiment
 
 * The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge
 
