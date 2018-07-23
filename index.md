@@ -4,7 +4,7 @@ layout: default
 
 <img align="left" src="assets/prof_pic.jpg" hspace="20"  width="260" height="350" >
 
-I am currently a third-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American politics and quantitative political methodology with a focus on causal inference, experiments, and measurement. Throughout my career, I intend to develop behavioral models of elite politics. In particular, I am working on a project to collect and analyze mayoral emails to reveal aspects of the internal decision-making process and responsiveness to citizens. <br />
+I am currently a third-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American politics and quantitative political methodology with a focus on causal inference, and experiments. Throughout my career, I intend to develop behavioral models of elite politics. In particular, I am working on a project to collect and analyze mayoral emails to reveal aspects of the internal decision-making process and responsiveness to citizens. <br />
 
 Before enrolling at Washington University in St. Louis, I graduated with a bachelor’s and master’s degree in Political Science from Arkansas State University. My master’s thesis explored the relationship between economic freedom and participatory democracy.  <br />
 
