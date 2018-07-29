@@ -8,7 +8,7 @@ permalink: "/research/"
 
 
 ## Research in Progress
-* Can Social Pressure Induce Governmental Transparency? An Audit Experiment
+* Can Social Pressure Induce Governmental Responsiveness to Open Records Request? An Audit Experiment
 
 * The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge
 
