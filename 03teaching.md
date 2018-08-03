@@ -6,6 +6,7 @@ permalink: "/teaching/"
 
 
 ### Teaching Assistant, Washington University in St. Louis
+* Introduction to American Politics, Fall 2018
 * Introduction to American Politics, Fall 2017
 
 
