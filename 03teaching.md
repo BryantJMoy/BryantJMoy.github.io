@@ -6,6 +6,7 @@ permalink: "/teaching/"
 
 
 ### Teaching Assistant, Washington University in St. Louis
+* Topics in Politics: Health Politics, Spring 2019
 * Introduction to American Politics, Fall 2018
 * Introduction to American Politics, Fall 2017
 
