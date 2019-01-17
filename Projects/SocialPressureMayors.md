@@ -12,24 +12,5 @@ This paper examines the extent to which social pressures can foster more respons
 
 ![Alt Text](https://bryantjmoy.github.io/assets/SocialPressureMayors.gif)
 
-`
-\begin{table}[!htbp]
-\centering
-  \caption{Response Rates by Treatment Condition} 
-\begin{threeparttable}
-\begin{tabular}{@{}lcc@{}}
-\toprule
-\multicolumn{1}{c}{} & Response Rate & N      \\ \midrule
-Control              & 53.5       & 251/469 \\
-Duty                 & 55.0      & 258/469  \\
-Peer Effect                & 46.7      & 220/471 \\ \bottomrule
-\end{tabular}
-  \begin{tablenotes}[flushleft]
-      \small
-      \item Note: This table reflects the raw number of responses and the response rates by experiment condition. The response rate corresponds to the intent-to-treat. 
-          \end{tablenotes}
-   \end{threeparttable}  
-\label{tab:response_rate}
-\end{table}
-`
+
 
