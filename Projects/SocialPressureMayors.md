@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: 
 permalink: "/Projects"
 ---
 Social Pressure on Mayoral Responsiveness
