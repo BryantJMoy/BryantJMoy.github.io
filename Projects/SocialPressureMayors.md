@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: 
 title: 
-permalink: "/Projects"
+permalink: "/Projects/"
 ---
 Social Pressure on Mayoral Responsiveness
