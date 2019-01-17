@@ -10,7 +10,7 @@ permalink: "/research/"
 * Hacker, Hans, Lisa Bohn, and **Bryant Moy**. "A Grave Responsibility": *Twelve Angry Men*, Critical Thinking, and Cross-Disciplinary Learning Communities.
 
 ## Research in Progress
-* [Can Social Pressure Foster Responsiveness? An Open Records Field Experiment with Mayoral Offices](SocialPressure.md)
+* [Can Social Pressure Foster Responsiveness? An Open Records Field Experiment with Mayoral Offices](Projects/SocialPressureMayors.md)
 
 * The Mayoral Email Archive
 
