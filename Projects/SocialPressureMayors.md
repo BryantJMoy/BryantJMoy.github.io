@@ -13,9 +13,7 @@ This paper examines the extent to which social pressures can foster more respons
 ![Alt Text](https://bryantjmoy.github.io/assets/SocialPressureMayors.gif)
 
 
-![](bryantjmoy.github.io/assets/ITT.png)
+![](https://bryantjmoy.github.io/assets/ITT.png 'ITT')
 
-![](bryantjmoy.github.io/assets/CACE.png)
-
-
+![](https://bryantjmoy.github.io/assets/CACE.png 'Complier Average Causal Effect')
 
