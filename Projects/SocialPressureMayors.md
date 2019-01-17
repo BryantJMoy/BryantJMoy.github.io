@@ -13,4 +13,9 @@ This paper examines the extent to which social pressures can foster more respons
 ![Alt Text](https://bryantjmoy.github.io/assets/SocialPressureMayors.gif)
 
 
+![](bryantjmoy.github.io/assets/ITT.png)
+
+![](bryantjmoy.github.io/assets/CACE.png)
+
+
 
