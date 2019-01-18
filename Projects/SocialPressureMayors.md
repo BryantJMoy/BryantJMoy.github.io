@@ -17,3 +17,4 @@ This paper examines the extent to which social pressures can foster more respons
 
 ![](https://bryantjmoy.github.io/assets/CACE.png 'Complier Average Causal Effect')
 
+![](https://bryantjmoy.github.io/assets/hov.html)
