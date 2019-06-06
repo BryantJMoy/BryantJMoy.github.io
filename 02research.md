@@ -12,7 +12,7 @@ permalink: "/research/"
 ## Research in Progress
 * [Can Social Pressure Foster Responsiveness?](Projects/SocialPressureMayors.md) An Open Records Field Experiment with Mayoral Offices
 
-* Gimpel, Jim, Nathan Lovin, *Bryant J. Moy*, and Andrew Reeves. "The Urban-Rural Gulf in American Political Behavior"
+* Gimpel, Jim, Nathan Lovin, **Bryant J. Moy**, and Andrew Reeves. "The Urban-Rural Gulf in American Political Behavior"
 
 * The Mayoral Email Archive
 
