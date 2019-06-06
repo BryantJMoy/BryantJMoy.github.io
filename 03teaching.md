@@ -3,7 +3,8 @@ layout: page
 title: Teaching
 permalink: "/teaching/"
 ---
-
+### Instructor, Washington Univeristy in St. Louis, Summer 2019
+* Introduction to American Politics
 
 ### Teaching Assistant, Washington University in St. Louis
 * Topics in Politics: Health Politics, Spring 2019
