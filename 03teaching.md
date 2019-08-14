@@ -7,7 +7,7 @@ permalink: "/teaching/"
 * Introduction to American Politics, Summer 2019
 
 ### Teaching Assistant, Washington University in St. Louis
-* Research Design, Fall 2019 (Matt Gabel)
+* Research Design, Fall 2019 (Matthew Gabel)
 * Topics in Politics: Health Politics, Spring 2019 (Darl Lewis)
 * Introduction to American Politics, Fall 2018 (Andrew Reeves)
 * Introduction to American Politics, Fall 2017 (Andrew Reeves)
