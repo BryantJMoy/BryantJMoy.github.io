@@ -39,16 +39,3 @@ Before enrolling at Washington University in St. Louis, I graduated with a bache
 
 
 
-[comment]: <> (I am currently a second-year Ph.D. student in Political Science at Washington University in St. Louis. )
-
-[comment]: <> (My primary research interest is American Political Behavior and Quantitative Political Methodology. )
-
-
-[comment]: <> (Feel free to read more about me [here](/about/), or have a look at my [research](/research/).)
-
-[comment]: <> ( Here's how you link to a [webpage in your site](/teaching/))
-
-[comment]: <> (  here's a link to an [external site](https://www.google.com))
-
-
-
