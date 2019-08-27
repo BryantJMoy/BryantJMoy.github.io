@@ -16,7 +16,7 @@ permalink: "/research/"
 
 ## Research in Progress
 
-* Rickert, Patrick, Nicholas W. Waterbury, and **Bryant J. Moy**. "The Context of Legislative Effectiveness"
+* Rickert, Patrick, Nicholas W. Waterbury, and **Bryant J. Moy**. [Changing Principals: Committee Chair Effectiveness in a Partisan Congress](Projects/LES.md)
 
 * The Mayoral Email Archive
 
