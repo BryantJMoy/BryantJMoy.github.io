@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: "/Projects/"
+permalink: "/Projects/LES/"
 ---
 <a href="/assets/APSA2019RickertWaterburyMoy.pdf">Download PDF</a>
 
