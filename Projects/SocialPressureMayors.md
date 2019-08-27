@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: "/Projects/SocialPressure/"
+permalink: "/Projects/SocialPressureMayors/"
 ---
 
 **Can Social Pressure Foster Responsiveness? An Open Records Field Experiment with Mayoral Offices**
