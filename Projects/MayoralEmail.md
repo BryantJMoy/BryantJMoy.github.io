@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: "/Projects/"
+permalink: "/Projects/MayorEmail"
 ---
 
 **Mayoral Email Archive**
