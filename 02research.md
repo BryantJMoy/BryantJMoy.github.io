@@ -20,7 +20,7 @@ permalink: "/research/"
 [Changing Principals: Committee Chair Effectiveness in a Partisan Congress](https://bryantjmoy.github.io/assets/APSA2019RickertWaterburyMoy.pdf)
 <!--[Changing Principals: Committee Chair Effectiveness in a Partisan Congress](Projects/LES.md) --> 
 
-* The Mayoral Email Archive [test](Projects/test.md)
+* The Mayoral Email Archive
 
 * The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge
 
