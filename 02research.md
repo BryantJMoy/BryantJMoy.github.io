@@ -24,3 +24,5 @@ permalink: "/research/"
 
 * The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge
 
+* Comparing Criteria for Confounder Selection
+
