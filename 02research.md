@@ -12,7 +12,7 @@ permalink: "/research/"
 
 * Hacker, Hans, Lisa Bohn, and **Bryant Moy**. "A Grave Responsibility": *Twelve Angry Men*, Critical Thinking, and Cross-Disciplinary Learning Communities *(Invited to Revise and Resubmit)*
 
-* [Can Social Pressure Foster Responsiveness?](Projects/SocialPressureMayors.md) An Open Records Field Experiment with Mayoral Offices *(Under Review)*
+* [Can Social Pressure Foster Responsiveness?](Projects/SocialPressureMayors.md) An Open Records Field Experiment with Mayoral Offices *(Invited to Revise and Resubmit)*
 
 ## Research in Progress
 
@@ -25,4 +25,6 @@ permalink: "/research/"
 * The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge
 
 * Comparing Criteria for Confounder Selection
+
+* Dynamic Responsiveness in Municipal Politics
 
