@@ -15,6 +15,6 @@ permalink: "/teaching/"
 
 
 ### Instructor, Arkansas State University Spring 2015
-* Introduction to United States Government (POSC 2103)[teaching evaluations](https://github.com/BryantJMoy/bryantjmoy.github.io/blob/master/assets/ASTATE_teaching_evals.pdf)
+* Introduction to United States Government (POSC 2103) [teaching evaluations](https://github.com/BryantJMoy/bryantjmoy.github.io/blob/master/assets/ASTATE_teaching_evals.pdf)
 
 
