@@ -4,7 +4,7 @@ title: Teaching
 permalink: "/teaching/"
 ---
 ### Instructor, Washington Univeristy in St. Louis
-* Introduction to American Politics, Summer 2019 [teaching evaluations] (https://github.com/BryantJMoy/bryantjmoy.github.io/blob/master/assets/WASHU_teaching_evals.pdf)
+* Introduction to American Politics, Summer 2019 [teaching evaluations] (https://bryantjmoy.github.io/assets/assets/WASHU_teaching_evals.pdf)
 
 
 ### Teaching Assistant, Washington University in St. Louis
@@ -15,6 +15,6 @@ permalink: "/teaching/"
 
 
 ### Instructor, Arkansas State University Spring 2015
-* Introduction to United States Government (POSC 2103) [teaching evaluations](https://github.com/BryantJMoy/bryantjmoy.github.io/blob/master/assets/ASTATE_teaching_evals.pdf)
+* Introduction to United States Government (POSC 2103) [teaching evaluations](https://bryantjmoy.github.io/assets/ASTATE_teaching_evals.pdf)
 
 
