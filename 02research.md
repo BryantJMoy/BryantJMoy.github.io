@@ -12,7 +12,7 @@ permalink: "/research/"
 
 * [Can Social Pressure Foster Responsiveness?](Projects/SocialPressureMayors.md) An Open Records Field Experiment with Mayoral Offices *(Invited to Revise and Resubmit)*
 
-## Working Paper
+## Working Papers
 * Hacker, Hans, Lisa Bohn, and **Bryant Moy**. "A Grave Responsibility": *Twelve Angry Men*, Critical Thinking, and Cross-Disciplinary Learning Communities 
 
 * Rickert, Patrick, Nicholas W. Waterbury, and **Bryant J. Moy**.
