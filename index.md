@@ -10,6 +10,8 @@ I am currently a fourth-year Ph.D. student in Political Science at Washington Un
 
 Before enrolling at Washington University in St. Louis, I graduated with a bachelor’s and master’s degree in Political Science from Arkansas State University. My master’s thesis explored the relationship between economic freedom and participatory democracy.  <br />
 
+<!--- My writing and research has been published in the Journal of Experimental Political Science, Political Behavior, and Oxford Bibliographies in Political Science.-->
+
 
 [comment]: <> (I am currently a second-year Ph.D. student in Political Science at Washington University in St. Louis.)
 
