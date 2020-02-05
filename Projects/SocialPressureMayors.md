@@ -20,3 +20,5 @@ This paper examines the extent to which social pressures can foster more respons
 ![](https://bryantjmoy.github.io/assets/CACE.png 'Complier Average Causal Effect')
 
 Follow this [link](http://bryantjmoy.github.io/assets/hov.html) to see the geographic distribution of the 1400 cities/mayors in my sample. 
+
+Download the paper [here].(https://bryantjmoy.github.io/assets/Mayoral_Responsiveness.pdf)
