@@ -4,7 +4,11 @@ layout: default
 
 <img align="left" src="assets/prof_pic.jpg" hspace="20"  width="260" height="350" >
 
-I am currently a fourth-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American Politics and Political Methodology with a focus on causal inference and experiments. Throughout my career, I intend to develop models that explain responsiveness and representation in local government. I am also interested in the politics surrounding the provision of local public goods. I am involved in multiple projects pursuing these interests. In one project, I plan to generate dynamic public opinion on the municipal level to examine the extent to which these small-scale democracies are responsive over time to changing ideological distribution of city residents. In another project, I am collecting and analyzing mayoral emails to reveal aspects of the internal decision-making process within city government and understand how mayors respond to their constituents.   <br />
+I am currently a fourth-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American Politics and Political Methodology, with a focus on causal inference and experiments. Throughout my career, I intend to develop models of representation in the local context. My dissertation, in particular, explores how changes in the ideological preferences of citizen residents translate to changes in local public policy. I will examine this relationship under different institutional and political contexts.<br />
+
+I am also collecting and analyzing mayoral emails to reveal aspects of the internal decision-making process within the city government and understand how mayors respond to their constituents. <br />
+
+My writing and research can be found in the *Oxford Bibliographies in Political Science*, and forthcoming in  *Political Behavior.*  <br />
 
 <!--- I have experience working with national voter datasets and building large relational databases. I mainly use R to clean and analyze data, and SQL to manage large relational databases.-->
 
