@@ -19,7 +19,6 @@ permalink: "/research/"
 
 * Rickert, Patrick, Nicholas W. Waterbury, and **Bryant J. Moy**.
 [Changing Principals: Committee Chair Effectiveness in a Partisan Congress](https://bryantjmoy.github.io/assets/APSA2019RickertWaterburyMoy.pdf)
-<!--[Changing Principals: Committee Chair Effectiveness in a Partisan Congress](Projects/LES.md) --> 
 
 ## Research in Progress
 
@@ -29,5 +28,5 @@ permalink: "/research/"
 
 * Comparing Criteria for Confounder Selection
 
-* Dynamic Responsiveness in Municipal Politics
+* Gubernatorial Particularism
 
