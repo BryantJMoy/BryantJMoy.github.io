@@ -8,6 +8,8 @@ I am currently a fourth-year Ph.D. student in Political Science at Washington Un
 
 I am also collecting and analyzing mayoral emails in hopes of revealing aspects of the internal decision-making process in local government. <br />
 
+<br />
+
 My writing and research can be found in the *Oxford Bibliographies in Political Science*, and forthcoming in  *Political Behavior.*  <br />
 
 <!--- I have experience working with national voter datasets and building large relational databases. I mainly use R to clean and analyze data, and SQL to manage large relational databases.-->
