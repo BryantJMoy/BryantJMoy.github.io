@@ -4,7 +4,7 @@ layout: default
 
 <img align="left" src="assets/prof_pic.jpg" hspace="20"  width="230" height="309" >
 
-I am currently a fourth-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American Politics and Political Methodology, with a focus on causal inference and experiments. Throughout my career, I intend to develop models of representation in the local context. My dissertation, in particular, explores how changes in the ideological preferences of city residents translate to changes in local public policy. I will examine this relationship under different institutional and political contexts.<br />
+I am currently a fourth-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American Politics and Political Methodology, with a focus on causal inference and experiments. Throughout my career, I intend to develop models of representation in the local context. My dissertation, in particular, explores how shifts in local ideology translate to changes in local public policy. I examine this relationship under different institutional and political contexts.<br />
 
 Along side my dissertation project, I am collecting and analyzing mayoral emails in hopes of revealing aspects of the internal decision-making process in local government. <br />
 
