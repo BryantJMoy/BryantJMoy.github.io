@@ -4,10 +4,9 @@ layout: default
 
 <img align="left" src="assets/prof_pic.jpg" hspace="20"  width="230" height="309" >
 
-I am currently a fourth-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American Politics and Political Methodology, with a focus on causal inference and experiments. Throughout my career, I intend to develop models of representation in the local context. My dissertation, in particular, explores how shifts in local ideology translate to changes in local public policy. I examine this relationship under different institutional and political contexts.<br />
+I am currently a fourth-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American Politics and Political Methodology. Throughout my career, I intend to develop models of representation and responsiveness in the local government context. My dissertation, in particular, asks whether dynamic responsiveness exists on the local level and how the quality of representation varies across geographies and contexts.  <br />
 
-Along side my dissertation project, I am collecting and analyzing mayoral emails in hopes of revealing aspects of the internal decision-making process in local government. <br />
-
+While my dissertation project examines ideological representation, I also have a paper on how social pressure may lead to responsiveness to requests for transparency. In particular, I conducted a non-deceptive experiment on mayoral offices to examine how they would respond to different levels of social pressure primes in open records requests. This paper currently has a revise and resubmit. Alongside this project, I am collecting and analyzing mayoral emails in hopes of revealing aspects of the internal decision-making process in local government.  <br />
 
 My writing and research can be found in the *Oxford Bibliographies in Political Science*, and forthcoming in  *Political Behavior.*  <br />
 
