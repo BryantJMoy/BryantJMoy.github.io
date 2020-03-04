@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="left" src="assets/prof_pic.jpg" hspace="20"  width="230" height="409" >
+<img align="left" src="assets/prof_pic.jpg" hspace="20"  width="304" height="409" >
 
 I am currently a fourth-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American Politics and Political Methodology. Throughout my career, I intend to develop models of representation and responsiveness in the local government context. My dissertation, in particular, asks whether dynamic responsiveness exists on the local level and how the quality of representation varies across geographies and contexts.  <br />
 
