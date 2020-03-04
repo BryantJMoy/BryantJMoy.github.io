@@ -6,7 +6,7 @@ layout: default
 
 I am currently a fourth-year Ph.D. student in Political Science at Washington University in St. Louis. My fields of study are American Politics and Political Methodology. Throughout my career, I intend to develop models of representation and responsiveness in the local government context. My dissertation, in particular, asks whether dynamic responsiveness exists on the local level and how the quality of representation varies across geographies and contexts.  <br />
 
-While my dissertation project examines ideological representation, I also have a paper on how social pressure may lead to responsiveness to requests for transparency. In particular, I conducted a non-deceptive experiment on mayoral offices to examine how they would respond to different levels of social pressure primes in open records requests. This paper currently has a revise and resubmit. Alongside this project, I am collecting and analyzing mayoral emails in hopes of revealing aspects of the internal decision-making process in local government.  <br />
+While my dissertation project examines ideological representation, I also have a paper on how social pressure may lead to responsiveness to requests for transparency. In particular, I conducted a non-deceptive experiment on mayoral offices to examine how they would respond to different levels of social pressure primes in open records requests. This paper currently has a revise and resubmit. Alongside this project, I am collecting and analyzing mayoral emails in hopes of revealing aspects of the internal decision-making process.  <br />
 
 My writing and research can be found in the *Oxford Bibliographies in Political Science*, and forthcoming in  *Political Behavior.*  <br />
 
