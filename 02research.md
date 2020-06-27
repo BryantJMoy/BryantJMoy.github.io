@@ -13,8 +13,8 @@ permalink: "/research/"
 * Miller, David, **Bryant J. Moy**, Andrew Reeves. ["U.S. Presidential Campaigns and Their Impact."](http://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0156.xml) in *Oxford Bibliographies in Political Science*, S. L. Maisel, Ed., Oxford University Press
 
 <!-- +## Invited to Revise and Resubmit or Under Review+ -->
-## Revise and Resubmit or Under Review
-* [Can Social Pressure Foster Responsiveness?](Projects/SocialPressureMayors.md) An Open Records Field Experiment with Mayoral Offices *(Invited to Revise and Resubmit)*
+<!-- +## Revise and Resubmit or Under Review+ -->
+<!-- * [Can Social Pressure Foster Responsiveness?](Projects/SocialPressureMayors.md) An Open Records Field Experiment with Mayoral Offices *(Invited to Revise and Resubmit)*+ -->
 
 ## Working Papers
 * Hacker, Hans, Lisa Bohn, and **Bryant Moy**. "A Grave Responsibility": *Twelve Angry Men*, Critical Thinking, and Cross-Disciplinary Learning Communities 
@@ -26,9 +26,9 @@ permalink: "/research/"
 
 * The Mayoral Email Archive
 
-* The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge
+<!-- +* The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge+ -->
 
-* Comparing Criteria for Confounder Selection
+<!-- +* Comparing Criteria for Confounder Selection+ -->
 
 * Gubernatorial Particularism
 
