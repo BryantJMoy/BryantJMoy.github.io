@@ -30,5 +30,5 @@ permalink: "/research/"
 
 <!-- +* Comparing Criteria for Confounder Selection+ -->
 
-* Gubernatorial Particularism
+* The Limited City? The Existence of Dynamic Responsiveness in Local Government
 
