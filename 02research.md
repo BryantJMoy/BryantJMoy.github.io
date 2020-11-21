@@ -4,9 +4,9 @@ title: Research
 permalink: "/research/"
 ---
 ## Publications
-* Moy, Bryant. ["Can Social Pressure Foster Responsiveness?" An Open Records Field Experiment with Mayoral Offices](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/can-social-pressure-foster-responsiveness-an-open-records-field-experiment-with-mayoral-offices/514BD7EBF8449FA868D995A599EABCC8) *Journal of Experimental Political Science*
+* Moy, Bryant. ["Can Social Pressure Foster Responsiveness?" An Open Records Field Experiment with Mayoral Offices.](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/can-social-pressure-foster-responsiveness-an-open-records-field-experiment-with-mayoral-offices/514BD7EBF8449FA868D995A599EABCC8) *Journal of Experimental Political Science*
 
-* Gimpel, James, Nathan Lovin, **Bryant Moy**, and Andrew Reeves. ["The Urban-Rural Gulf in American Political Behavior"](https://bryantjmoy.github.io/assets/urbanrural.pdf) [*Political Behavior*](https://link.springer.com/article/10.1007/s11109-020-09601-w)
+* Gimpel, James, Nathan Lovin, **Bryant Moy**, and Andrew Reeves. ["The Urban-Rural Gulf in American Political Behavior."](https://bryantjmoy.github.io/assets/urbanrural.pdf) [*Political Behavior*](https://link.springer.com/article/10.1007/s11109-020-09601-w)
   * [Replication File](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IYBIUP) <br />
   
 
