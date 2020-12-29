@@ -24,7 +24,7 @@ permalink: "/research/"
 
 ## Research in Progress
 
-* The Mayoral Email Archive
+* [The Mayoral Email Archive](https://bryantjmoy.github.io/Projects/Mayoral_Email_Archive)
 
 <!-- +* The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge+ -->
 
