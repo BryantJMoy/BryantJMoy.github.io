@@ -8,7 +8,7 @@ I am currently a Ph.D. candidate in Political Science at Washington University i
 
 While my dissertation project examines ideological responsiveness, I have another project dedicated to responsiveness to open records requests. I conducted a non-deceptive experiment on city executives to understand how we can foster greater responsiveness to requests for transparency. Alongside this project, I am collecting and analyzing mayoral emails in hopes of revealing aspects of the internal decision-making process.  <br />
 
-My writing and research can be found in the *Oxford Bibliographies in Political Science*, *Political Behavior*, and forthcoming in the *Journal of Experimental Political Science.*  <br />
+My writing and research can be found in the *Oxford Bibliographies in Political Science*, *Political Behavior*, and the *Journal of Experimental Political Science.*  <br />
 
 <!--- I have experience working with national voter datasets and building large relational databases. I mainly use R to clean and analyze data, and SQL to manage large relational databases.-->
 
