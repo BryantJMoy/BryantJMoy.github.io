@@ -23,7 +23,7 @@ permalink: "/research/"
 
 ## Research in Progress
 
-* Moy, Bryant, Jacob Montgomery, Noah Dasanaike, and Santiago Olivella. "A Gaussian process regression and post-stratification model for grouped public opinion estimation"
+* "A Gaussian process regression and post-stratification model for grouped public opinion estimation." with Jacob Montgomery, Noah Dasanaike, and Santiago Olivella.
 
 * [The Mayoral Email Archive](https://bryantjmoy.github.io/Projects/Mayoral_Email_Archive)
 
