@@ -23,13 +23,16 @@ permalink: "/research/"
 
 ## Research in Progress
 
+* [The Mayoral Email Archive](https://bryantjmoy.github.io/Projects/Mayoral_Email_Archive)
+
+* The Limited City? The Existence of Dynamic Responsiveness in Local Government
+
 * "A Gaussian process regression and post-stratification model for grouped public opinion estimation." with Jacob Montgomery, Noah Dasanaike, and Santiago Olivella.
 
-* [The Mayoral Email Archive](https://bryantjmoy.github.io/Projects/Mayoral_Email_Archive)
+* The Racial Determinants of Local Nuisance Ordinances: Evidence from Ohio Municipalities
 
 <!-- +* The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge+ -->
 
 <!-- +* Comparing Criteria for Confounder Selection+ -->
 
-* The Limited City? The Existence of Dynamic Responsiveness in Local Government
 
