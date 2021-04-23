@@ -15,11 +15,11 @@ permalink: "/research/"
 <!-- +## Revise and Resubmit or Under Review+ -->
 <!-- * [Can Social Pressure Foster Responsiveness?](Projects/SocialPressureMayors.md) An Open Records Field Experiment with Mayoral Offices *(Invited to Revise and Resubmit)*+ -->
 
-## Working Papers
+<!-- +### Working Papers#*+ -->
 <!-- +##* Hacker, Hans, Lisa Bohn, and **Bryant Moy**. "A Grave Responsibility": *Twelve Angry Men*, Critical Thinking, and Cross-Disciplinary Learning Communities + -->
 
-* Rickert, Patrick, Nicholas W. Waterbury, and **Bryant J. Moy**.
-[Changing Principals: Committee Chair Effectiveness in a Partisan Congress](https://bryantjmoy.github.io/assets/APSA2019RickertWaterburyMoy.pdf)
+<!-- +##** Rickert, Patrick, Nicholas W. Waterbury, and **Bryant J. Moy**.
+[Changing Principals: Committee Chair Effectiveness in a Partisan Congress](https://bryantjmoy.github.io/assets/APSA2019RickertWaterburyMoy.pdf)+ -->
 
 ## Research in Progress
 
