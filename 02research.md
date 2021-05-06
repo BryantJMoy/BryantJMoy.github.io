@@ -25,7 +25,7 @@ permalink: "/research/"
 
 * [The Mayoral Email Archive](https://bryantjmoy.github.io/Projects/Mayoral_Email_Archive)
 
-* The Limited City? The Existence of Dynamic Responsiveness in Local Government
+* Responsiveness in the Patchwork of Local Government
 
 * "A Gaussian process regression and post-stratification model for grouped public opinion estimation." with Jacob Montgomery, Noah Dasanaike, and Santiago Olivella.
 
