@@ -26,6 +26,7 @@ permalink: "/research/"
 * [The Mayoral Email Archive](https://bryantjmoy.github.io/Projects/Mayoral_Email_Archive)
 
 * Responsiveness in the Patchwork of Local Government
+  * [PolMeth 2021 Poster](https://bryantjmoy.github.io/assets/Moy_PolMeth_2021.pdf)
 
 * "A Gaussian process regression and post-stratification model for grouped public opinion estimation." with Jacob Montgomery, Noah Dasanaike, and Santiago Olivella.
 
