@@ -9,6 +9,7 @@ permalink: "/research/"
 * Gimpel, James, Nathan Lovin, **Bryant Moy**, and Andrew Reeves. ["The Urban-Rural Gulf in American Political Behavior."](https://bryantjmoy.github.io/assets/urbanrural.pdf) [*Political Behavior*](https://link.springer.com/article/10.1007/s11109-020-09601-w)
   * [Replication File](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IYBIUP)
   &nbsp;
+  
 * Miller, David, **Bryant J. Moy**, Andrew Reeves. ["U.S. Presidential Campaigns and Their Impact."](http://www.oxfordbibliographies.com/view/document/obo-9780199756223/obo-9780199756223-0156.xml) in *Oxford Bibliographies in Political Science*, S. L. Maisel, Ed., Oxford University Press
 
 <!-- +## Invited to Revise and Resubmit or Under Review+ -->
@@ -27,6 +28,7 @@ permalink: "/research/"
 
 * Responsiveness in the Patchwork of Local Government
   * [PolMeth 2021 Poster](https://bryantjmoy.github.io/assets/Moy_PolMeth_2021.pdf)
+  &nbsp;
 
 * "A Gaussian process regression and post-stratification model for grouped public opinion estimation." with Jacob Montgomery, Noah Dasanaike, and Santiago Olivella.
 
