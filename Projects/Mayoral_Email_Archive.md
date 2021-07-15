@@ -3,9 +3,9 @@ layout: page
 title: Mayoral Email Archive
 ---
 
-The mayoral email archive is a novel dataset that includes non-private emails archived from the inboxes and sent boxes of mayors between January 1, 2018, and March 31, 2018. I collected these emails via a series of open records requests sent out in the summer of 2018. The open records requests were initially apart of a project on social pressure and mayoral responsiveness that was published in the *Journal of Experimental Political Science* in 2020.  
+The mayoral email archive is a novel dataset that includes non-private emails archived from the inboxes and sent boxes of mayors between January 1, 2018, and March 31, 2018. I collected these emails via a series of open records requests sent out in the summer of 2018. The open records requests were initially apart of a project on social pressure and mayoral responsiveness that was published in the *Journal of Experimental Political Science* in 2021.  
 
-I am currently downloading, parsing, and cleaning the email records. After the cleaning process is complete, I will incorporate the emails into my current research agenda on local governments.  
+I am currently downloading, parsing, and cleaning the email records. After the cleaning process is complete, I will incorporate the emails into my research agenda on local governance.  
 
 ## Research Associated With Mayoral Emails
 
