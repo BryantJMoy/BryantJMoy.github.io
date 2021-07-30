@@ -20,3 +20,5 @@ permalink: "/teaching/"
 * Introduction to United States Government (POSC 2103) [teaching evaluations](https://bryantjmoy.github.io/assets/ASTATE_teaching_evals.pdf)
 
 
+### Writings on Teaching and Mentoring
+* ["Graduate Student Peer Teaching Mentoring"](https://bryantjmoy.github.io/assets/PeerTeachingMentoring.pdf) accepted at The Political Science Educator (with William O'Brochta) 
