@@ -21,4 +21,4 @@ permalink: "/teaching/"
 
 
 ### Writings on Teaching and Mentoring
-* ["Graduate Student Peer Teaching Mentoring"](https://bryantjmoy.github.io/assets/PeerTeachingMentoring.pdf) accepted at The Political Science Educator (with William O'Brochta) 
+* ["Graduate Student Peer Teaching Mentoring"](https://bryantjmoy.github.io/assets/PeerTeachingMentoring.pdf) accepted at *The Political Science Educator* (with William O'Brochta) 
