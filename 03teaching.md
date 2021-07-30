@@ -8,6 +8,7 @@ permalink: "/teaching/"
 
 
 ### Teaching Assistant, Washington University in St. Louis
+* Business of Elections, Fall 2020 (Andrew Reeves and Steve Malter)
 * Privacy in the Digital Age, Spring 2020 (Sunita Parikh)
 * Research Design, Fall 2019 (Matthew Gabel)
 * Topics in Politics: Health Politics, Spring 2019 (Darl Lewis)
