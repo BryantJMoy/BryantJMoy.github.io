@@ -28,6 +28,9 @@ Urban–rural differences in partisan political loyalty are as familiar in the U
 <!-- +##** Rickert, Patrick, Nicholas W. Waterbury, and **Bryant J. Moy**.
 [Changing Principals: Committee Chair Effectiveness in a Partisan Congress](https://bryantjmoy.github.io/assets/APSA2019RickertWaterburyMoy.pdf)+ -->
 
+## Other Writing
+* William O'Brochta and **Bryant J. Moy.** 2021. ["Department-Level Graduate Student Peer Teaching Mentoring."](https://bryantjmoy.github.io/assets/PeerTeachingMentoring.pdf) *The Political Science Educator* 25(1) 6-8.
+
 ## Research in Progress
 
 * [The Mayoral Email Archive](https://bryantjmoy.github.io/Projects/Mayoral_Email_Archive)
