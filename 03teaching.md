@@ -21,4 +21,4 @@ permalink: "/teaching/"
 
 
 ### Writings on Teaching and Mentoring
-* William O'Brochta and Bryant J. Moy. ["Graduate Student Peer Teaching Mentoring"](https://bryantjmoy.github.io/assets/PeerTeachingMentoring.pdf) accepted at *The Political Science Educator*
+* William O'Brochta and Bryant J. Moy. 2021. ["Department-Level Graduate Student Peer Teaching Mentoring."](https://bryantjmoy.github.io/assets/PeerTeachingMentoring.pdf) *The Political Science Educator* 25(1) 6-8.
