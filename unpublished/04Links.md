@@ -1,4 +1,4 @@
----
+<!--- ---
 layout: page
 title: Useful Links
 permalink: "/links/"
@@ -20,4 +20,4 @@ Provides commentary on current events through the lens of political scientists a
 
 ### [Text Mining with R](https://www.tidytextmining.com)
 
-
+--->
