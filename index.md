@@ -4,17 +4,12 @@ layout: default
 
 <img align="left" src="assets/prof_pic.jpg" hspace="20"  width="230" height="309" >
 
-I am currently a Ph.D. candidate in Political Science at Washington University in St. Louis. My fields of study are American Politics and Political Methodology. Throughout my career, I intend to develop models of representation and responsiveness in the local government context. My dissertation, in particular, asks whether dynamic responsiveness exists on the local level and how the quality of representation varies across geographies and contexts.  <br />
+I am currently a Ph.D. candidate in Political Science at Washington University in St. Louis. I am a scholar of American politics and political methodology interested in the functioning of democracy and how the local context shapes it. My research spans both institutions and political behavior with a central focus on local politics. The questions I seek to answer speak to democratic representation, elite behavior, and race & ethnic politics. In addition to my substantive areas, I have methodological interests in computational methods, experimental design, and causal inference using observational data. 
+My dissertation addresses fundamental questions about how citizens shape policy in American local democracy: do local governments translate public opinion to public policy despite a system of overlapping governing institutions; can individuals foster greater responsiveness and transparency among local elites; and how do elites respond to rapid diversification of their constituents.  <br />
 
-While my dissertation project examines ideological responsiveness, I have another project dedicated to responsiveness to open records requests. I conducted a non-deceptive experiment on city executives to understand how we can foster greater responsiveness to requests for transparency. Alongside this project, I am collecting and analyzing mayoral emails in hopes of revealing aspects of the internal decision-making process.  <br />
-
-My writing and research can be found in the *Oxford Bibliographies in Political Science*, *Political Behavior*, and the *Journal of Experimental Political Science.*  <br />
-
-<!--- I have experience working with national voter datasets and building large relational databases. I mainly use R to clean and analyze data, and SQL to manage large relational databases.-->
+My writing and research can be found in the *Oxford Bibliographies in Political Science*, *Political Behavior*, and the *Journal of Experimental Political Science*.  In addition, a portion of my dissertation work received the Best Graduate Student Poster Award (Applications) from the Society of Political Methodology Summer Conference in 2021.  <br />
 
 Before enrolling at Washington University in St. Louis, I graduated with a bachelor’s and master’s degree in Political Science from Arkansas State University. My master’s thesis explored the relationship between economic freedom and participatory democracy.  <br />
-
-<!--- My writing and research has been published in the Journal of Experimental Political Science, Political Behavior, and Oxford Bibliographies in Political Science.-->
 
 
 ---
@@ -30,11 +25,16 @@ Before enrolling at Washington University in St. Louis, I graduated with a bache
 
 ---
 
-## Research Interests
+## Substantive Interests
 * American Politics
-* Quantitative Political Methodology 
-* Causal Inference 
+* Representation
+* Subnational Politics (Urban/Local)
+* Race & Ethnic Politics
 
+## Methodological Interests
+* Causal Inference
+* Experimental Design
+* Computational Models
 
 
 
