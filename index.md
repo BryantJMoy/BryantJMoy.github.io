@@ -18,7 +18,7 @@ Before enrolling at Washington University in St. Louis, I graduated with a bache
 ## Education
 * **Washington University in St. Louis,  2016-Present** <br>
   Ph.D. Political Science (in progress) <br>
-  A.M. Political Science 2018 <br>
+  M.A. Political Science 2018 <br>
 
 * **Arkansas State University** <br>
   M.A. Political Science 2016 <br>
