@@ -41,6 +41,7 @@ Urban–rural differences in partisan political loyalty are as familiar in the U
 Given a patchwork system of overlapping local institutions, can residents direct public policy? Current approaches to representation, at this level, may provide a distorted view of how democracy operates because they fail to account for the overlapping nature of institutions. To fill this gap, I first implement a framework that takes into account multiple overlapping governing institutions: cities, counties, school districts, and special districts. Second, using over 500,000 survey respondents, I estimate a novel measure of local ideological preferences for cities over time. Lastly, to assess the impact of ideology on public policy outcomes, I use a Bayesian within-between random effects model. I have three major findings: First, cross-sectional responsiveness exists. Second, I find evidence for dynamic responsiveness in spending, but inconclusive evidence for taxation. Third, I provide descriptive evidence that consolidated governance fosters greater responsiveness. I reframe the responsiveness discussion from a single governing unit to a holistic system of overlapping institutions, and provide the strongest evidence to date that local governments respond dynamically to the ideology of citizens.
 </details>
   &nbsp;
+  
   * [Paper: Updated 10/30/2021](https://bryantjmoy.github.io/assets/Responsiveness%20in%20the%20Patchwork.pdf) 
   * [PolMeth 2021 Poster](https://bryantjmoy.github.io/assets/Moy_PolMeth_2021.pdf)
   &nbsp;
