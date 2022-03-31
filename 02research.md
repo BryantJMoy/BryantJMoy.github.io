@@ -41,7 +41,7 @@ Urban–rural differences in partisan political loyalty are as familiar in the U
 
 * "A Gaussian process regression and post-stratification model for grouped public opinion estimation." with Jacob Montgomery, Noah Dasanaike, and Santiago Olivella.
 
-* Racial Threat and Policy Adoption in Local Government: The Emergence of Criminal Activity Nuisance Ordinances in Ohio Municipalities
+* Racial Threat and the Emergence of Criminal Activity Nuisance Ordinances in Ohio Municipalities
 
 <!-- +* The Fox News Effect on Uninformed and Misinformed Responses: Assessing the Variability in Political Knowledge+ -->
 
