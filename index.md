@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="left" src="assets/moy.jpg" hspace="20"  width="350" height="309" >
+<img align="left" src="assets/moy.jpg" hspace="20"  width="309" height="309" >
 
 I am currently a Ph.D. candidate in Political Science at Washington University in St. Louis. I am a scholar of American politics and political methodology interested in the functioning of democracy and how the local context shapes it. My research spans both institutions and political behavior with a central focus on local politics. The questions I seek to answer speak to democratic representation, elite behavior, and race & ethnic politics. In addition to my substantive areas, I have methodological interests in computational methods, experimental design, and causal inference using observational data. <br />
 
