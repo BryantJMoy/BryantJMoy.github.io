@@ -6,7 +6,7 @@ layout: default
 
 *Please see my new website at https://www.BryantJMoy.com*
 
-I am an incoming Data Science Faculty Fellow in the Center for Data Science and an Assistant Professor of Politics at New York University.  I am a scholar of American politics and political methodology interested in local politics, race, and data science. My research primarily focuses on how small-scale multi-racial democracies (cities) in the United States function in a complex environment. The questions I seek to answer speak to democratic representation, elite behavior, and race & ethnic politics. In addition to my substantive areas, I have methodological interests in computational methods, experimental design, and causal inference using observational data. 
+I am an incoming Data Science Faculty Fellow in the Center for Data Science and a Visiting Assistant Professor of Politics at New York University.  I will join the tenure-track in 2024 as an Assistant Professor. My research primarily focuses on how small-scale multi-racial democracies (cities) in the United States function in a complex environment. The questions I seek to answer speak to democratic representation, elite behavior, and race & ethnic politics. In addition to my substantive areas, I have methodological interests in computational methods, experimental design, and causal inference using observational data. 
 
 My dissertation addresses fundamental questions about how citizens shape policy in American local democracy: do local governments translate public opinion to public policy despite a system of overlapping governing institutions; can individuals foster greater responsiveness and transparency among local elites; and how elites respond to diversity in their community.
 
