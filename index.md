@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="left" src="assets/moy.jpg" hspace="20"  width="330" height="309" >
+<!-- <img align="left" src="assets/moy.jpg" hspace="20"  width="330" height="309" > -->
 
 *Please see my new website at https://www.BryantJMoy.com*
 
