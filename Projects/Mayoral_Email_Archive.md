@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Mayoral Email Archive
 ---
@@ -17,3 +17,4 @@ This paper examines the extent to which social pressures can foster greater resp
  
 * "Mayors and Internal Policy Priorities: Exploring the Blackbox of Internal Policymaking Through Email Communication" *(Work in Progress)*
 
+-->
