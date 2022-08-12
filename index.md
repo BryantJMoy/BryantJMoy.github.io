@@ -37,7 +37,7 @@ In 2022, I graduated with a Ph.D. in Political Science from Washington Universit
 ## Methodological Interests
 * Causal Inference
 * Experimental Design
-* Computational Models
+* Computational Models -->
 
 
 
